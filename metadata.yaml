@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32566'
     url: http://www.gutenberg.org/2009/agents/32566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27310#O-Oraculo-do-Passado-do-presente-e-do-Futuro--2-7---13-Parte-Segunda--O-oraculo-das-Salas
 gutenberg_issued: '2008-11-22'
 gutenberg_type: Text
 identifiers:
